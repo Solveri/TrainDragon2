@@ -8,9 +8,9 @@ Hidden Layers: These layers process the non-linear relationships between the inp
 Output Layer: The network outputs continuous values that control the Left Wing Flap, Right Wing Flap, and Tail/Speed Control. By outputting differential values for the wings, the network enables the dragon to bank, turn, and stabilize itself.
 
 2. The Training Process 
-Using Unity ML-Agents and the PPO (Proximal Policy Optimization) algorithm, I simulated an evolutionary-style learning process:
+Using Unity ML-Agents
 
-Actions & Rewards: The dragon earns positive rewards for minimizing its distance to the target and maintaining flight smoothness. Conversely, it receives penalties for colliding with obstacles or falling below a certain altitude.
+Actions and Rewards: The dragon earns positive rewards for minimizing its distance to the target and maintaining flight smoothness. Conversely, it receives penalties for colliding with obstacles or falling below a certain altitude.
 
 Optimization: Over thousands of episodes, the agent updates its neural weights to maximize its cumulative reward. This results in the emergence of complex maneuvers, such as tight turns to avoid pillars or diving to gain speed.
 
