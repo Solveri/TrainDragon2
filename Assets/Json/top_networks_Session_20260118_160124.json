@@ -1,0 +1,104 @@
+{
+    "networks": [
+        {
+            "networkName": "Dragon_Session_0116_1506",
+            "averageReward": 251.43630981445313,
+            "successRate": 0.9612413644790649,
+            "averageTime": 6.659602165222168,
+            "smoothness": 1.0,
+            "totalEpisodes": 7508,
+            "successfulEpisodes": 7217,
+            "timestamp": "2026-01-16 15:06:40"
+        },
+        {
+            "networkName": "Dragon_Session_0118_1538",
+            "averageReward": -29.812602996826173,
+            "successRate": 0.0,
+            "averageTime": 0.019956273958086969,
+            "smoothness": 1.0,
+            "totalEpisodes": 915,
+            "successfulEpisodes": 0,
+            "timestamp": "2026-01-18 15:38:30"
+        },
+        {
+            "networkName": "Dragon_Session_0118_1551",
+            "averageReward": -29.830537796020509,
+            "successRate": 0.0,
+            "averageTime": 0.019964223727583886,
+            "smoothness": 1.0,
+            "totalEpisodes": 1118,
+            "successfulEpisodes": 0,
+            "timestamp": "2026-01-18 15:51:16"
+        },
+        {
+            "networkName": "Dragon_Session_0118_1556",
+            "averageReward": -29.834697723388673,
+            "successRate": 0.0,
+            "averageTime": 0.019961904734373094,
+            "smoothness": 1.0,
+            "totalEpisodes": 525,
+            "successfulEpisodes": 0,
+            "timestamp": "2026-01-18 15:56:53"
+        },
+        {
+            "networkName": "Dragon_Session_0118_1552",
+            "averageReward": -29.838390350341798,
+            "successRate": 0.0,
+            "averageTime": 0.01997096836566925,
+            "smoothness": 1.0,
+            "totalEpisodes": 689,
+            "successfulEpisodes": 0,
+            "timestamp": "2026-01-18 15:52:10"
+        },
+        {
+            "networkName": "Dragon_Session_0118_1555",
+            "averageReward": -29.882726669311525,
+            "successRate": 0.0,
+            "averageTime": 0.01998482458293438,
+            "smoothness": 1.0,
+            "totalEpisodes": 1318,
+            "successfulEpisodes": 0,
+            "timestamp": "2026-01-18 15:55:56"
+        },
+        {
+            "networkName": "Dragon_Session_0118_1601",
+            "averageReward": -29.864368438720704,
+            "successRate": 0.0,
+            "averageTime": 0.01998136192560196,
+            "smoothness": 1.0,
+            "totalEpisodes": 1073,
+            "successfulEpisodes": 0,
+            "timestamp": "2026-01-18 16:01:24"
+        },
+        {
+            "networkName": "Dragon_Session_0118_1558",
+            "averageReward": -29.899789810180665,
+            "successRate": 0.0,
+            "averageTime": 0.019993150606751443,
+            "smoothness": 1.0,
+            "totalEpisodes": 6125,
+            "successfulEpisodes": 0,
+            "timestamp": "2026-01-18 15:58:05"
+        },
+        {
+            "networkName": "Dragon_Session_0118_1537",
+            "averageReward": -29.901866912841798,
+            "successRate": 0.0,
+            "averageTime": 0.019990935921669008,
+            "smoothness": 1.0,
+            "totalEpisodes": 2211,
+            "successfulEpisodes": 0,
+            "timestamp": "2026-01-18 15:37:30"
+        },
+        {
+            "networkName": "Dragon_Session_0116_1502",
+            "averageReward": -25.882749557495118,
+            "successRate": 0.0,
+            "averageTime": 4.718397617340088,
+            "smoothness": 1.0,
+            "totalEpisodes": 125,
+            "successfulEpisodes": 0,
+            "timestamp": "2026-01-16 15:02:53"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "networks": [
+        {
+            "networkName": "Dragon_Session_0116_1458",
+            "averageReward": -31.888545989990236,
+            "successRate": 0.0,
+            "averageTime": 5.032608509063721,
+            "smoothness": 1.0,
+            "totalEpisodes": 184,
+            "successfulEpisodes": 0,
+            "timestamp": "2026-01-16 14:58:46"
+        }
+    ]
+}
